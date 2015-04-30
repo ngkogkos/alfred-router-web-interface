@@ -1,5 +1,5 @@
 # alfred-router-web-interface
-An Alfred 2 workflow which finds your default gateway's IP and opens it in your default browser.
+An [Alfred 2](http://www.alfredapp.com/) workflow which finds your default gateway's IP and opens it in your default browser.
 
 #### Usage
 
