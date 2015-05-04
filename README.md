@@ -10,3 +10,7 @@ Note: This will most probably work fine with SOHO routers only.
 #### Licence
 
 This workflow is released under the MIT License.
+
+#### Thanks
+
+Special thanks to [Shawn Rice](https://github.com/shawnrice) for helping making this workflow's icon adaptive and to my friend [lostpfg](https://github.com/lostpfg) for designing the icons.
